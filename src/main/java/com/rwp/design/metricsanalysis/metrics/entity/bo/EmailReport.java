@@ -14,6 +14,6 @@ import org.springframework.stereotype.Component;
 public class EmailReport implements Report {
     @Override
     public void report(RequestStat requestStat) {
-        //TODO
+        //TODO doReport
     }
 }
