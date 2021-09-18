@@ -1,0 +1,57 @@
+{
+  "groups": [
+    {
+      "name": "my.redis",
+      "type": "com.rwp.design.metricsanalysis.config.properties.RedisConfigProperties",
+      "sourceType": "com.rwp.design.metricsanalysis.config.properties.RedisConfigProperties"
+    }
+  ],
+  "properties": [
+    {
+      "name": "my.redis.host",
+      "type": "java.lang.String",
+      "sourceType": "com.rwp.design.metricsanalysis.config.properties.RedisConfigProperties"
+    },
+    {
+      "name": "my.redis.max-idle",
+      "type": "java.lang.Integer",
+      "sourceType": "com.rwp.design.metricsanalysis.config.properties.RedisConfigProperties"
+    },
+    {
+      "name": "my.redis.max-total",
+      "type": "java.lang.Integer",
+      "sourceType": "com.rwp.design.metricsanalysis.config.properties.RedisConfigProperties"
+    },
+    {
+      "name": "my.redis.max-wait",
+      "type": "java.lang.Integer",
+      "sourceType": "com.rwp.design.metricsanalysis.config.properties.RedisConfigProperties"
+    },
+    {
+      "name": "my.redis.min-idle",
+      "type": "java.lang.Integer",
+      "sourceType": "com.rwp.design.metricsanalysis.config.properties.RedisConfigProperties"
+    },
+    {
+      "name": "my.redis.port",
+      "type": "java.lang.Integer",
+      "sourceType": "com.rwp.design.metricsanalysis.config.properties.RedisConfigProperties"
+    },
+    {
+      "name": "my.redis.test-on-borrow",
+      "type": "java.lang.Boolean",
+      "sourceType": "com.rwp.design.metricsanalysis.config.properties.RedisConfigProperties"
+    },
+    {
+      "name": "my.redis.test-on-return",
+      "type": "java.lang.Boolean",
+      "sourceType": "com.rwp.design.metricsanalysis.config.properties.RedisConfigProperties"
+    },
+    {
+      "name": "my.redis.timeout",
+      "type": "java.lang.Integer",
+      "sourceType": "com.rwp.design.metricsanalysis.config.properties.RedisConfigProperties"
+    }
+  ],
+  "hints": []
+}
