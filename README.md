@@ -12,3 +12,4 @@ start:
 * 对外提供接口MetricsStorage支持多种访问日志的持久化方式接入；
 * 提供接口Report支持其他消息触达方式接入
 
+![image-20211012193527726](img.png)
